@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WhatGravity
 - 👀 I’m interested in learning new Stuff
-- 🌱 I’m currently learning C++ and Rust
+- 🌱 I’m currently learning C++ and want to learn Rust
 
 
 <!---
